@@ -1,0 +1,39 @@
+body {
+    background-color: papayawhip;
+}
+
+p,ul>li {
+    font-size: large;
+}
+
+.comName {
+    color: lightcoral;
+    text-align: center;
+}
+
+.sciname {
+    font-style: italic;
+    text-align: center;
+}
+
+.profile {
+    height: 200px;
+    border-radius: 50%;
+    border-width: 12px;
+    border-style: ridge;
+}
+
+.main {
+    width; 100%;
+    text-align: center;
+}
+
+.left50{
+    width: 50%;
+    float: left;
+}
+
+.right50{
+    width: 50%;
+    float: right;
+}
