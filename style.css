@@ -37,3 +37,24 @@ p,ul>li {
     width: 50%;
     float: right;
 }
+
+.navbar {
+    background-color: rgb(255, 198, 165);
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.navbar>a {
+    float: left;
+    color: rgb(227, 54, 54);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: large;
+}
+
+.navbar>a:hover{
+    background-color: darksalmon;
+    color: bisque;
+    border-radius: 10px;
+}
