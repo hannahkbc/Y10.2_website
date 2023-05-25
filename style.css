@@ -20,7 +20,7 @@ p,ul>li {
     height: 200px;
     border-radius: 50%;
     border-width: 12px;
-    border-style: ridge;
+    border-style: double
 }
 
 .main {
@@ -54,7 +54,7 @@ p,ul>li {
 }
 
 .navbar>a:hover{
-    background-color: darksalmon;
-    color: bisque;
+    background-color: rgb(251, 157, 126);
+    color: rgb(255, 217, 171);
     border-radius: 10px;
 }
